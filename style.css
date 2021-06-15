@@ -1,8 +1,28 @@
 body{
+    margin: 0;
     font-size: 15px;
     box-sizing: border-box;
+    align-items: center;
+    font-family: 'Spartan', sans-serif;
 }
 
 h1,h2,p{
     margin-top: 0px;
+}
+
+.holder{
+display: flex;
+flex-direction: column;
+width: 100%;
+align-items: center;
+}
+
+.words{
+    line-height: 25px;
+}
+
+#part1{
+    width: 375px;
+    text-align: center;
+    
 }
