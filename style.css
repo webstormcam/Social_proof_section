@@ -46,6 +46,7 @@ flex-direction: column;
     background-color:hsl(300, 24%, 96%) ;
     margin-bottom: 20px;
     padding-bottom: 10px;
+    border-radius: 15px;
 }
 
 .reviewstars{
@@ -60,4 +61,15 @@ flex-direction: column;
     width: 375px;
     text-align: center;
     
+}
+
+.boxxy{
+    background-color:hsl(300, 43%, 22%) ;
+    text-align: left;
+    border-radius: 15px;
+}
+
+.buyer{
+    display: block;
+    color:hsl(333, 80%, 67%) ;
 }
