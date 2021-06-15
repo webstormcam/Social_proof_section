@@ -56,6 +56,8 @@ flex-direction: column;
     margin-bottom: 20px;
     padding-bottom: 10px;
     border-radius: 15px;
+    display: flex;
+    flex-direction: column;
 }
 
 .reviewstars{
@@ -94,6 +96,7 @@ margin-top: 40px;
     display: block;
     color:hsl(333, 80%, 67%) ;
     font-weight: 100;
+    padding-top: 5px;
 }
 
 .imgs{
