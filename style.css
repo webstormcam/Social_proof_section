@@ -17,6 +17,10 @@ h1{
     margin-bottom: 20px;
 }
 
+h2{
+    color: white;
+}
+
 p{
     font-size: 15px;
     }
@@ -67,6 +71,12 @@ flex-direction: column;
     background-color:hsl(300, 43%, 22%) ;
     text-align: left;
     border-radius: 15px;
+}
+
+.boxxy p{
+    color: white;
+    font-size: 10px;
+    line-height: 20px;
 }
 
 .buyer{
