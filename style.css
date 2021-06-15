@@ -38,3 +38,14 @@ margin-top: 40px;
     text-align: center;
     
 }
+
+.reviews{
+    padding: 15px;
+    background-color:hsl(300, 24%, 96%) ;
+    margin-bottom: 20px;
+}
+
+.reviewstars{
+    color: hsl(300, 43%, 22%);
+    margin-top: 2px;
+}
