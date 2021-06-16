@@ -112,8 +112,16 @@ margin-top: 40px;
         flex-direction: row;
             width: 1000px;
             text-align: left;
-            justify-content: space-evenly
+            justify-content: space-between;
             
+        }
+
+        #words{
+    width: 400px;
+        }
+
+        .stars{
+        width: 600px;
         }
 
        .imgholder{
@@ -125,5 +133,30 @@ margin-top: 40px;
             flex-direction: row;
             width: 400px;
         }
+
+        #review2{
+          margin-left: 40px;
+        }
+
+        #review3{
+            margin-left: 80px;
+        }
+
+        #part2{
+            display: flex;
+            flex-direction: row;
+            width: 1000px;
+            text-align: center;
+            margin-top: 40px;
+                
+            }
+
+            .boxxy{
+               
+                margin-right: 20px;
+            }
+
+
+
 }
 
